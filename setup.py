@@ -40,7 +40,7 @@ setup(
     description=nam_description,
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/kherud/neural-additive-models-pt',
+    url='https://github.com/ZanxuWang/neural-additive-models-pt',
     author='Konstantin Herud',
     classifiers=[
         'Development Status :: 4 - Beta',
